@@ -1,0 +1,2 @@
+# gelistirme
+Geliştirme
